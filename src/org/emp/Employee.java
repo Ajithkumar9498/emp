@@ -9,5 +9,7 @@ public class Employee {
 	public static void main(String[] args) {
 		Employee a = new Employee();
 		a.sample(1234);
+		
+		System.out.println("Employee kumar");
 	}
 }
